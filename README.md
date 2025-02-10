@@ -24,8 +24,6 @@ JavaScript: Lógica da calculadora
 
 Clone este repositório: https://github.com/brunolorenzidev/calculadora-js.git
 
-git clone 
-
 Acesse a pasta do projeto
 
 Abra o arquivo index.html em qualquer navegador.
